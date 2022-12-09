@@ -1,2 +1,2 @@
-# Pharmacy_Management_System
-Pharmacy Management System in Java
+# Vaccine_Management_System
+Vaccine Management System in Java
