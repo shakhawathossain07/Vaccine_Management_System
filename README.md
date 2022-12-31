@@ -1,5 +1,6 @@
 # Vaccine_Management_System
-<img width="188" alt="image" src="https://user-images.githubusercontent.com/109748582/206621069-e9d23dc5-0544-4d7e-8130-d8b4d6d70210.png">
+![image](https://user-images.githubusercontent.com/109748582/210127785-85b2dfb3-e07d-4bdb-a964-c465ead62833.png)
+
 
 
 INTRODUCTION:
